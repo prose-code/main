@@ -36,7 +36,7 @@ This git and all gits pertaining to the group will be maintained under the githu
 - Please provide some context and documentation if your challenge prompt requires APIs or some esoteric programming concepts
 
 ## Submissions
-- Challenge submissions are entered by creating a new repository with the naming convention <Challenge ID>\_<Submitter Name>\_<\customtext> (eg 00001_mike_llamaparty) inside this organization on github
+- Challenge submissions are entered by creating a new repository with the naming convention "ChallengeID_Submitter Name_customtext" (eg 00001_mike_llamaparty) inside this organization on github
 
 
 ### Note(s)
