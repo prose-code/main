@@ -6,5 +6,7 @@
             "email": "phillip.yuen@obdusatools.com"
         }
     ],
-    "require": {}
+    "require": {
+        "nesbot/carbon": "^2.17"
+    }
 }

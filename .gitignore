@@ -1,1 +1,4 @@
 /vendor/
+/jquery-simple-datetimepicker-1.12.0
+composer.lock
+composer.json
