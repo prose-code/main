@@ -1,0 +1,12 @@
+{
+    "name": "phillipyuen/codeprose",
+    "authors": [
+        {
+            "name": "Phillip Yuen",
+            "email": "phillip.yuen@obdusatools.com"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^2.17"
+    }
+}
